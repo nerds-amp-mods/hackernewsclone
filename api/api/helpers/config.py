@@ -1,0 +1,5 @@
+import os
+
+
+GOOGLE_CLOUD_PROJECT=os.getenv('GOOGLE_CLOUD_PROJECT')
+KIND='news'
