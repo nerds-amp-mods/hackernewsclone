@@ -1,7 +1,7 @@
 # !usr/bin/env python3
-from api.webapp import app
+from helpers import app
 
 
 
 if __name__ == "__main__":
-	app.run()
+	app.run(debug=True)
