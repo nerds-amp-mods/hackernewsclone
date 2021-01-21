@@ -1,1 +1,7 @@
 *.pyc
+
+# Virtual environments
+/venv/
+
+# Vscode files
+/.vscode/
